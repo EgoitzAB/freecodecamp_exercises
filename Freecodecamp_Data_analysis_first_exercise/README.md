@@ -1,0 +1,1 @@
+This is the first exercise of the FreeCodeCamp Data analysis with python certification. I think that they need to be done in replit and it would need one refactoring, but works and only fail in the abstraction.
